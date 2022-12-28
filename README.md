@@ -1,4 +1,4 @@
-#<strong>Company Insolvency Exploratory Data Analysis and prediction using Machine Learning</strong>
+# <strong>Company Insolvency Exploratory Data Analysis and prediction using Machine Learning</strong>
 
 This notebook aims to analyse the financials of 6819 companies, and the solvency status of these companies to determine and predict the insolvency risk of these companies.
 

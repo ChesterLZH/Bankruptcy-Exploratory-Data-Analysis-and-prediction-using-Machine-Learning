@@ -6,7 +6,7 @@ The data of the companies are taken from the UCI Machine Learning Repository
 Repository: https://archive.ics.uci.edu/ml/datasets/Taiwanese+Bankruptcy+Prediction
 
 # <strong>Approach</strong>
-Exploratory data analysis was first used to understand the nature of the data; data distributions and correlations between the data and insolvency risk. The results of the analysis were then used to design and tune a Classification Machine Learning Model, tuned with upsampling and hyperparameter tuning. The tuned model was then used to predict the insolvency risk of a few companies.
+Exploratory data analysis was first used to understand the data distributions and correlations between the data and insolvency risk. The results of the analysis were then used to design and tune a Classification Machine Learning Model, tuned with upsampling algorithmns and hyperparameter tuning. The tuned model was then used to predict the insolvency risk of a few companies.
 
 # <strong>Conclusion</strong>
 WIP

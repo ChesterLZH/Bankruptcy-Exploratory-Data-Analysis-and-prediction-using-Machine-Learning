@@ -1,17 +1,18 @@
 ## <strong>Company Insolvency Exploratory Data Analysis and prediction using Machine Learning</strong>
 This notebook aims to analyse the financials of 9792 Polish companies, and the solvency status of these companies to determine and predict insolvency risk.<br>
 The final model was then compared against a dummy model and the Altman Z-Score to test its effectiveness using a test scenario<br>
+<br>
 The data of the companies are taken from the UCI Machine Learning Repository Repository: http://archive.ics.uci.edu/ml/datasets/polish+companies+bankruptcy+data
 
 # Approach
-1. Exploratory Data Analysis (EDA)
+**1. Exploratory Data Analysis (EDA)**
   - Understand data distributions and correlations between data and insolvency risk
-2. Design Classification ML Model 
+**2. Design Classification ML Model**
   - Plan ML model using results from EDA
   - Selecting ML model 
   - Upsampling
   - hyperparameter tuning
-3. Analysis
+**3. Analysis**
   - Tuned model compared against dummy model to test for prediction accuracy
   - Tuned model compared against Altman's Z-Score in a test scenario to test for prediction accuracy
 

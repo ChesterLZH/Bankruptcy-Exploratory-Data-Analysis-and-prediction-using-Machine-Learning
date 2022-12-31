@@ -24,12 +24,12 @@ The data of the companies are taken from the UCI Machine Learning Repository Rep
 The tuned Gradient Boosting Classifier Model was more accurate in approving profitable loans, compared to using the Altman's Z-Score, and produced a greater ROI<br>
 <br>
 **Tuned Gradient Boosting Classifier Model:**<br>
-f1 score: 0.201<br>
-Final cash: $644500<br>
-Approved loans: 2381<br>
-Denied loans: 100<br>
-Repaid loans: 2329<br>
-Defaulted loans: 52<br>
+f1 score: 0.181<br>
+Final cash: $630000<br>
+Approved loans: 2373<br>
+Denied loans: 108<br>
+Repaid loans: 2320<br>
+Defaulted loans: 53<br>
 <br>
 
 **Altman's Z-Score:**<br>

@@ -11,7 +11,7 @@ The data of the companies are taken from the UCI Machine Learning Repository Rep
   - Plan ML model using results from EDA
   - Selecting ML model 
   - Upsampling
-  - hyperparameter tuning
+  - Hyperparameter tuning
 3. Analysis
   - Tuned model compared against dummy model to test for prediction accuracy
   - Tuned model compared against Altman's Z-Score in a test scenario to test for prediction accuracy

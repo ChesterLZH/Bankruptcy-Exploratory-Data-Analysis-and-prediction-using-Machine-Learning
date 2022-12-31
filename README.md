@@ -2,7 +2,7 @@
 This notebook aims to analyse the financials of 9792 Polish companies, and the solvency status of these companies to determine and predict insolvency risk.<br>
 The final model was then compared against a dummy model and the Altman Z-Score to test its effectiveness using a test scenario<br>
 <br>
-The data of the companies are taken from the UCI Machine Learning Repository Repository: http://archive.ics.uci.edu/ml/datasets/polish+companies+bankruptcy+data
+The were taken from the UCI Machine Learning Repository Repository: http://archive.ics.uci.edu/ml/datasets/polish+companies+bankruptcy+data
 
 # Approach
 1. Exploratory Data Analysis (EDA)

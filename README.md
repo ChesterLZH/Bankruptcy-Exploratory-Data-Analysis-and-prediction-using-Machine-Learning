@@ -18,7 +18,8 @@ The were taken from the UCI Machine Learning Repository Repository: http://archi
 
 # Metric
 1. Measuring Return of Investment (ROI) of ML model predictions or Altman's Z-Score to approve or deny loans in test scenario
-2. ROI made from ML model predictions measured against ROI made from Altman's Z-Score predictions
+2. ROI made from ML model predictions measured against ROI made from Altman's Z-Score predictions in test scenario
+* Test scenario: Starting cash of $0, with approved companies given $10000 per loan, at 5% interest when repaying loans. Bankrupt companies will not repay loans
 
 # Conclusion
 The tuned Gradient Boosting Classifier Model was more accurate in approving profitable loans, compared to using the Altman's Z-Score, and produced a greater ROI<br>
